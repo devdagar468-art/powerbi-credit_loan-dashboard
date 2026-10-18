@@ -22,4 +22,4 @@ A professional Power BI dashboard designed to evaluate customer credit risks, an
 ### 📁 Repository Structure
 
 * credit loan.pbix: The source Power BI file containing data models and interactive report pages.
-* Screenshot 2026-10-18 120413.png: Visual overview of the finished dashboard framework.
+* Screenshot 2026-10-18 115813.png: Visual overview of the finished dashboard framework.
