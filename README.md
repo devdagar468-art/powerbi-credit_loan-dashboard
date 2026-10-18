@@ -4,7 +4,7 @@ A professional Power BI dashboard designed to evaluate customer credit risks, an
 
 ### 📊 Dashboard Preview
 
-! [Dashboard Layout] (Screenshot 2026-10-18 115813.png) 
+![Dashboard Layout] (Screenshot 2026-10-18 115813.png) 
 
 *(Note: If the preview image above does not load, make sure the filename matches your uploaded screenshot exactly.)* 
 
